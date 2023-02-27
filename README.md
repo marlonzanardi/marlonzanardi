@@ -8,8 +8,8 @@
 </div>
 <br>
 
-
-![MarlonZanardi's GitHub stats](https://github-readme-stats.vercel.app/api?username=cryptotwinsbr&show_icons=true&theme=merko)
+![MarlonZanardi's GitHub stats](https://github-readme-stats.vercel.app/api?username=marlonzanardi&show_icons=true&theme=merko)
+![Cryptotwinsbr's GitHub stats](https://github-readme-stats.vercel.app/api?username=cryptotwinsbr&show_icons=true&theme=merko)
 
 
 <div style="display: inline_block"><br>
