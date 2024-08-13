@@ -1,8 +1,7 @@
 # Hello! I'm Marlon Zanardi
 
-As a computer and software engineer, I possess advanced knowledge in programming languages such as C++ and Python, as well as extensive experience in the areas of embedded systems, microcontrollers, and services/applications for Linux. My experience includes working with large codebases, effectively resolving tickets, utilizing cloud computing services, and applying agile development methodologies for efficient project management. I am a proactive professional, focused on results and with excellent communication skills, which allows me to effectively work with multidisciplinary teams, capable of delivering high-quality work and making significant contributions to any team.
+As a computer and software engineer, I possess advanced knowledge in programming languages such as C++ and Python, as well as extensive experience in the areas of embedded systems, microcontrollers, and services/applications for Linux. My experience includes working with large codebases, effectively resolving tickets, utilizing cloud computing services, and applying agile development methodologies for efficient project management. I am a proactive professional, focused on results, which allows me to effectively work with multidisciplinary teams, capable of delivering high-quality work and making significant contributions to any team.
 
-If you are looking for a highly skilled and committed technology professional, please feel free to contact me to discuss how I can contribute to your company: marlon.zanardi95@hotmail.com
 
 ### Follow me
 <div> 
