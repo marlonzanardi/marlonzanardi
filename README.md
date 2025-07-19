@@ -24,9 +24,9 @@ My experience includes working with large codebases, effectively resolving ticke
 </div>
 <br>
 
-<a href="https://github.com/marlonzanardi">
+<!--<a href="https://github.com/marlonzanardi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonzanardi&theme=merko">
-</a>
+</a>-->
 <br>
 <br>
 <img src="https://i.postimg.cc/cJbmxsHz/fundo-git.png">
