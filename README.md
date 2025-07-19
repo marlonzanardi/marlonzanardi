@@ -1,6 +1,7 @@
 # Hello! I'm Marlon Zanardi
 
-As a computer and software engineer, I possess advanced knowledge in programming languages such as C++ and Python, as well as extensive experience in the areas of embedded systems, microcontrollers, and services/applications for Linux. My experience includes working with large codebases, effectively resolving tickets, utilizing cloud computing services, and applying agile development methodologies for efficient project management. I am a proactive professional, focused on results, which allows me to effectively work with multidisciplinary teams, capable of delivering high-quality work and making significant contributions to any team.
+As a computer and software engineer, I possess advanced knowledge in programming languages such as C++ and Python, as well as extensive experience in embedded systems, and services/applications for Linux. My technical stack includes Git, REST APIs, SQL databases (SQLite, MySQL, PostgreSQL, Oracle), Docker, and DevOps practices with AWS cloud computing, where I hold AWS Certified Cloud Practitioner and Developer certifications.
+My experience includes working with large codebases, effectively resolving tickets, utilizing cloud computing services, and applying agile development methodologies with Scrum (PSM I certified) for efficient project management. I am a proactive, results-focused professional who excels at working with multidisciplinary teams, capable of delivering high-quality work and making significant contributions to any team.
 
 
 ### Follow me
